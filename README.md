@@ -1,2 +1,2 @@
-# test2
-just a test
+# learning Ruby 
+some practies
